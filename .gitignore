@@ -1,0 +1,10 @@
+### CMake ###
+cmake-build-*/
+CMakeLists.txt.user
+
+### IntelliJ IDEA ###
+out/
+.idea
+
+### Mac OS ###
+.DS_Store
